@@ -42,7 +42,7 @@ Thanks for visiting my profile! :)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### ️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -54,20 +54,20 @@ Thanks for visiting my profile! :)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Erfan's GitHub Stats" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Erfan-Ghayouri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Ghayouri&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="Erfan's GitHub Streak" />
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
