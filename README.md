@@ -6,7 +6,7 @@ Hi there! 👋 I'm a passionate developer who started my programming journey wit
 
 - 🚀 **Expertise**: Full-Stack Development & Telegram Bot Development
 - 🧠 **Traits**: Naturally curious, analytical, and always ready to take on new challenges
-- 🎯 **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
+-  **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
 - 💬 **Proficiency**: Currently proficient in **two main programming languages**, with a constant drive to learn more
 
 > **"Keep learning. Keep building. Keep challenging yourself."** 🚀
@@ -58,17 +58,21 @@ Thanks for visiting my profile! :)
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="200px" style="max-width: 100%;">
-  </picture>
+  <div style="flex: 1; min-width: 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+      <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="200px" style="width: 100%; max-width: 450px;">
+    </picture>
+  </div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" style="max-width: 100%;">
-  </picture>
+  <div style="flex: 1; min-width: 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+      <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" style="width: 100%; max-width: 450px;">
+    </picture>
+  </div>
 
 </div>
 
