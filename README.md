@@ -22,7 +22,7 @@ Thanks for visiting my profile! :)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -56,20 +56,23 @@ Thanks for visiting my profile! :)
 
 ## 📊 GitHub Stats
 
-<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%" style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="border: none; padding: 0;">
-      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px">
+  </picture>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="GitHub Streak" height="200px"/>
+</div>
