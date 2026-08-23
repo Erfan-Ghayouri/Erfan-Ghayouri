@@ -1,3 +1,5 @@
+<img data-importer="snake" src="https://raw.githubusercontent.com/Erfan-Ghayouri/Erfan-Ghayouri/snake-output/snake.svg" alt="Snake animation" />
+
 # 💫 About Me
 
 Hi there! 👋 I'm a passionate developer who started my programming journey with **Python in 2022**. 
@@ -60,25 +62,12 @@ Thanks for visiting my profile! :)
       <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Erfan's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="Erfan's GitHub Streak" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="Erfan's GitHub Streak" />
     </td>
   </tr>
 </table>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Erfan-Ghayouri&icon=0&color=13" alt="Profile Views" />
-</p>
