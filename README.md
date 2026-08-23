@@ -22,7 +22,7 @@ Thanks for visiting my profile! :)
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -48,7 +48,7 @@ Thanks for visiting my profile! :)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-###  Design
+### 🎨 Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
@@ -56,22 +56,19 @@ Thanks for visiting my profile! :)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="450" height="200">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450" height="200">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="GitHub Streak" width="450" height="200"/>
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; width: 100%; max-width: 900px; margin: 0 auto;">
+  <div style="flex: 1; min-width: 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+      <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%; height: auto; display: block;">
+    </picture>
+  </div>
+  <div style="flex: 1; min-width: 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+      <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 100%; height: auto; display: block;">
+    </picture>
+  </div>
 </div>
