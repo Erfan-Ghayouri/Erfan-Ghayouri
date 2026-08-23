@@ -54,20 +54,22 @@ Thanks for visiting my profile! :)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <td align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="GitHub Streak" />
+    <td align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 0;">
+      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
