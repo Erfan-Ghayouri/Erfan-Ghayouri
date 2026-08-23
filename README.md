@@ -6,10 +6,10 @@ Hi there! 👋 I'm a passionate developer who started my programming journey wit
 
 - 🚀 **Expertise**: Full-Stack Development & Telegram Bot Development
 - 🧠 **Traits**: Naturally curious, analytical, and always ready to take on new challenges
-- 🎯 **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
+-  **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
 - 💬 **Proficiency**: Currently proficient in **two main programming languages**, with a constant drive to learn more
 
-> **"Keep learning. Keep building. Keep challenging yourself."** 🚀
+> **"Keep learning. Keep building. Keep challenging yourself."** 
 
 Thanks for visiting my profile! :)
 
@@ -24,7 +24,7 @@ Thanks for visiting my profile! :)
 
 ## 💻 Tech Stack
 
-### 🗣️ Languages
+### ️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -42,7 +42,7 @@ Thanks for visiting my profile! :)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ️ Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -54,20 +54,20 @@ Thanks for visiting my profile! :)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Erfan-Ghayouri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Erfan-Ghayouri&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Ghayouri&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Ghayouri&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
