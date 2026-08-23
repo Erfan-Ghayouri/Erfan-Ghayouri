@@ -6,10 +6,10 @@ Hi there! 👋 I'm a passionate developer who started my programming journey wit
 
 - 🚀 **Expertise**: Full-Stack Development & Telegram Bot Development
 - 🧠 **Traits**: Naturally curious, analytical, and always ready to take on new challenges
--  **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
+- 🎯 **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
 - 💬 **Proficiency**: Currently proficient in **two main programming languages**, with a constant drive to learn more
 
-> **"Keep learning. Keep building. Keep challenging yourself."** 
+> **"Keep learning. Keep building. Keep challenging yourself."** 🚀
 
 Thanks for visiting my profile! :)
 
@@ -24,7 +24,7 @@ Thanks for visiting my profile! :)
 
 ## 💻 Tech Stack
 
-### ️ Languages
+### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -58,16 +58,16 @@ Thanks for visiting my profile! :)
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Erfan-Ghayouri&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Ghayouri&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
