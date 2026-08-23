@@ -56,7 +56,7 @@ Thanks for visiting my profile! :)
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
