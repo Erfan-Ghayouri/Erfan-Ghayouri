@@ -1,58 +1,84 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Erfan and I'm a Software-Programmer!</h2>
+# 💫 About Me
 
-###
+Hi there! 👋 I'm a passionate developer who started my programming journey with **Python in 2022**. 
 
-<br clear="both">
+- 🚀 **Expertise**: Full-Stack Development & Telegram Bot Development
+- 🧠 **Traits**: Naturally curious, analytical, and always ready to take on new challenges
+- 🎯 **Current Focus**: Learning new technologies, improving problem-solving skills, and building better projects
+- 💬 **Proficiency**: Currently proficient in **two main programming languages**, with a constant drive to learn more
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Erfan-Ghayouri/Erfan-Ghayouri/snake-output/snake.svg" alt="Snake animation" />
+> **"Keep learning. Keep building. Keep challenging yourself."** 🚀
 
-###
+Thanks for visiting my profile! :)
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
-</div>
+---
 
-###
+## 🌐 Connect With Me
 
-<br clear="both">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_callme.efi) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:erf4n4m@gmail.com)
 
-<img data-importer="image" align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Rotating_black_and_white_squares.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"  />
+---
 
-###
+## 💻 Tech Stack
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+### 🗣️ Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-###
+### ⚙️ Frameworks & Libraries
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Erfan-Ghayouri.Erfan-Ghayouri&"  />
-</div>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-###
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erfan-Ghayouri/Erfan-Ghayouri/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erfan-Ghayouri/Erfan-Ghayouri/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🎨 Design
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-###
+---
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 📊 GitHub Stats
 
-###
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Erfan's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Erfan-Ghayouri&theme=transparent&hide_border=false" alt="Erfan's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Erfan-Ghayouri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Erfan-Ghayouri&icon=0&color=13" alt="Profile Views" />
+</p>
