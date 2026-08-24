@@ -19,7 +19,10 @@ Thanks for visiting my profile! :)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_callme.efi) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:erf4n4m@gmail.com)
-<p><a href="https://linkedin.com/in/erfan-ghayouri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
+<p align="left">
+<a href="https://linkedin.com/in/erfan-ghayouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfan-ghayouri" height="30" width="40" /></a>
+</p>
+
 ---
 
 ## 💻 Tech Stack
